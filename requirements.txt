@@ -1,0 +1,11 @@
+IPython
+imageio
+matplotlib
+numpy
+os
+random
+tensorflow==2.15.0
+tensorflow_datasets
+urllib
+zipfile
+tqdm
